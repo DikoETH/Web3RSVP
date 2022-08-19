@@ -1,0 +1,15 @@
+{
+  "name": "web3rsvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+    "script": "node scripts/run.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  }
+}
